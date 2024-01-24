@@ -1,0 +1,192 @@
+* {
+    background-color: blueviolet;
+    margin: 2px;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+span {
+    font-size: 35px;
+}
+
+button {
+    width: 115px;
+    height: 45px;
+    border: none;
+    background: skyblue;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 15px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+button:hover {
+    transform: translateY(-8px);
+}
+
+#titulo {
+    font-size: 60px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.apresentaçao {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.inicio {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo {
+    float: left;
+}
+
+.logo-2 {
+    float: right;
+}
+
+.container {
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.conteudo {
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.conteudo-2 {
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.joelheira {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.joelho {
+    border-radius: 15px;
+}
+
+.tornozeleira {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.tornozelo {
+    border-radius: 15px;
+}
+
+.manguito {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.manga {
+    border-radius: 15px;
+}
+
+.camisas {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.camisa {
+    border-radius: 15px;
+}
+
+.soundbar {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.som {
+    border-radius: 15px;
+}
+
+.mousepad {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.mouse {
+    border-radius: 15px;
+}
+
+.porta {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.copos {
+    border-radius: 15px;
+}
+
+.aspirador {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.portatil {
+    border-radius: 15px;
+}
+
+.microfone {
+    border: dotted aqua;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.rgb {
+    border-radius: 15px;
+}
